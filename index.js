@@ -16,7 +16,7 @@ client.on('ready', async () => {
         .setType('PLAYING')
         .setURL('https://discord.gg/Warmuts')
         .setState('& N1tro Murah, Aman, Begaransi')
-        .setName('Warmut V2')
+        .setName('Warmut Store')
         .setDetails('Menjual Berbagai App Premium')
         .setAssetsLargeImage('https://media.discordapp.net/attachments/1284020923888046130/1307250093287673917/20240609_172952_0000.png?ex=67399f05&is=67384d85&hm=9dce26357e8159f21b6519c3481a8cad2cbb9bb79400d80c2113230d8a41c00d&=&format=webp&quality=lossless&width=400&height=400')
         .setAssetsLargeText('Testimoni 850+')
